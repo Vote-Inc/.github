@@ -86,7 +86,6 @@ Every service runs as a container on **Amazon ECS Fargate**. Every request passe
 
 ## 📄 Read more
 
-- 📝 [Project write-up](#) <!-- link to your blog post -->
-- 📚 [Research paper](#) <!-- link to the paper -->
+- 📝 [Project write-up](https://jasonkitamirike.com/projects/cloud-native-distributed-voting-platform/)
 
-Built by **Jason Kitamirike** · [Website](#) · [LinkedIn](#)
+Built by **Jason Kitamirike** · [Website](https://jasonkitamirike.com/) · [LinkedIn](https://www.linkedin.com/in/jason-kitamirike/)
